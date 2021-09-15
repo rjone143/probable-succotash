@@ -2,9 +2,8 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-
 h3 {
-    color: #0000ff;
+    color: black;
     font-size: 175%;
     text-align: center;
 }
@@ -23,9 +22,9 @@ section:hover{
 h2 {
     float: right;
     border:1px solid black;
-    color: #e6e6fa;
+    color: black;
     font-size: 130%;
-    padding: 5px 20px 5px 20px;
+    padding: 5px 10px 5px 10px;
     margin-top: 0;
     margin-bottom: 20px;
 }
@@ -38,15 +37,15 @@ p {
 }
 
 #chicken {
-    background-color: #cb3434;
+    background-color: #cc6699;
 }
 
-#pork {
-    background-color:  #8a2db9;
+#veggie {
+    background-color:  #cb3434;
 }
 
-#steak {
-    background-color: #239023;
+#meat {
+    background-color: #999900;
 }
 .short-text{
   float:left;
