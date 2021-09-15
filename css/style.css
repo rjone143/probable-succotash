@@ -22,7 +22,6 @@ section:hover{
 h2 {
     float: right;
     border:1px solid black;
-    color: black !important;
     font-size: 130%;
     padding: 5px 10px 5px 10px;
     margin-top: 0;
@@ -37,15 +36,15 @@ p {
 }
 
 #chicken {
-    background-color: pink;
+    background-color: #c6538c;
 }
 
 #veggie {
-    background-color:  red;
+    background-color:  #cc0000;
 }
 
 #meat {
-    background-color: yellow;
+    background-color: #b38600;
 }
 .short-text{
   float:left;
@@ -193,3 +192,4 @@ p {
       width: 100%;
     }
   }
+  
